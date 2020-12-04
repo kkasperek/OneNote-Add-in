@@ -32,3 +32,5 @@ jspm_packages/
 # DynamoDB Local files
 .dynamodb/
 
+# Visual Studio Code
+.vscode/
